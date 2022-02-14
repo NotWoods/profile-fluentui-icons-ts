@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "tsc --diagnostics"
+  },
+  "dependencies": {
+    "@fluentui/react-icons": "^2.0.161-beta.12"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "typescript": "^4.5.5"
+  }
+}
